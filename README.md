@@ -13,7 +13,7 @@ The three hypothesis selected :
 - Determine the survival rate is associated to the age
 
 There are 4 folder in this repo:
-- src                     # Source files (python code)
-- data                    # [titanic.csv](https://github.com/ryyshao/CPSC-Assignment3/blob/main/data/titanic.csv)
-- result                  # Result of the project (e.g., plots, reports)
-- doc                     # Documentation files (additional documentations)
+- src                     # [python source code](https://github.com/ryyshao/CPSC-Assignment3/blob/main/src)
+- data                    # [Data related to the project](https://github.com/ryyshao/CPSC-Assignment3/blob/main/data)
+- result                  # [Result of the project](https://github.com/ryyshao/CPSC-Assignment3/blob/main/result)
+- doc                     # [additional documentations](https://github.com/ryyshao/CPSC-Assignment3/blob/main/doc)

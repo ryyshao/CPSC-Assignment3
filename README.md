@@ -14,6 +14,6 @@ The three hypothesis selected :
 
 There are 4 folder in this repo:
 - src                     # Source files (python code)
-- data                    # Data related to the project (titanic.csv)
+- data                    # [titanic.csv](https://github.com/ryyshao/CPSC-Assignment3/blob/main/data/titanic.csv)
 - result                  # Result of the project (e.g., plots, reports)
 - doc                     # Documentation files (additional documentations)

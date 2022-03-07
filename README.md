@@ -12,8 +12,8 @@ The three hypothesis selected :
 - Determine if the survival rate is associated to the gender
 - Determine the survival rate is associated to the age
 
-The folder structure :
-├── src                     # Source files (your python code)
-├── data                    # Data related to the project (titanic.csv)
-├── result                  # Result of the project (e.g., plots, reports)
-└── doc                     # Documentation files (additional documentations)
+There are 4 folder in this repo:
+- src                     # Source files (python code)
+- data                    # Data related to the project (titanic.csv)
+- result                  # Result of the project (e.g., plots, reports)
+- doc                     # Documentation files (additional documentations)

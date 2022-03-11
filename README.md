@@ -12,8 +12,10 @@ The three hypothesis selected :
 - Determine if the survival rate is associated to the gender
 - Determine the survival rate is associated to the age
 
-There are 4 folders in this repo:
-- src                     # [python source code](https://github.com/ryyshao/CPSC-Assignment3/blob/main/src)
-- data                    # [titanic.csv](https://github.com/ryyshao/CPSC-Assignment3/blob/main/data)
-- result                  # [Report](https://github.com/ryyshao/CPSC-Assignment3/blob/main/result)
-- doc                     # [jupyter notebook file](https://github.com/ryyshao/CPSC-Assignment3/blob/main/doc)
+There are 4 folders in this repo: 
+|Folder |Content |
+--- | --- | 
+|src|[python source code](https://github.com/ryyshao/CPSC-Assignment3/blob/main/src)|
+|data|[titanic.csv](https://github.com/ryyshao/CPSC-Assignment3/blob/main/data)|
+|result|[Report](https://github.com/ryyshao/CPSC-Assignment3/blob/main/result)|
+|doc|[jupyter notebook file](https://github.com/ryyshao/CPSC-Assignment3/blob/main/doc)|

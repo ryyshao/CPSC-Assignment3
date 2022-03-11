@@ -14,6 +14,6 @@ The three hypothesis selected :
 
 There are 4 folders in this repo:
 - src                     # [python source code](https://github.com/ryyshao/CPSC-Assignment3/blob/main/src)
-- data                    # [Data related to the project](https://github.com/ryyshao/CPSC-Assignment3/blob/main/data)
-- result                  # [Result of the project](https://github.com/ryyshao/CPSC-Assignment3/blob/main/result)
-- doc                     # [additional documentations](https://github.com/ryyshao/CPSC-Assignment3/blob/main/doc)
+- data                    # [titanic.csv](https://github.com/ryyshao/CPSC-Assignment3/blob/main/data)
+- result                  # [Report](https://github.com/ryyshao/CPSC-Assignment3/blob/main/result)
+- doc                     # [jupyter notebook file](https://github.com/ryyshao/CPSC-Assignment3/blob/main/doc)
